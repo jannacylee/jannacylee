@@ -1,4 +1,4 @@
-## Janna Lee 🪼
+## 🪼 Janna Lee 🪼
 
 I'm a full-stack product designer who likes to code fun things! 
 I love good storytelling, intentional visuals, and user autonomy.
